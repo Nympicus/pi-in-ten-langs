@@ -13,5 +13,5 @@ func leibnizPi(n int) float64 {
     return pi * 4
 }
 func main() {
-    fmt.Println(leibnizPi(20000000000))
+    fmt.Println(leibnizPi(2000000000))
 }

@@ -9,6 +9,6 @@ fn leibniz_pi(n: i64) -> f64 {
 }
 
 fn main() {
-    let result = leibniz_pi(20000000000);
+    let result = leibniz_pi(2000000000);
     println!("{}", result);
 }

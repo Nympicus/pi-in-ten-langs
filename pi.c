@@ -13,5 +13,5 @@ double leibniz_pi(long long n){
 }
 
 int main(){
-    printf("%.30f\n", leibniz_pi(20000000000));
+    printf("%.30f\n", leibniz_pi(2000000000));
 }

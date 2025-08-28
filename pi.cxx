@@ -16,8 +16,6 @@ double leibniz_pi(long long n){
 }
 
 int main(){
-    cout << fixed << setprecision(20) << leibniz_pi(20000000000) << endl;
+    cout << fixed << setprecision(20) << leibniz_pi(2000000000) << endl;
 }
 
-// benim 3.141592653088076669831707476988
-// norma 3.141592653589793238462643383279
