@@ -97,7 +97,7 @@ License
 
 No license; this repository is for educational and demonstrative purposes. Feel free to use or modify the code.
 
-[Benim YouTube kanalım](https://www.youtube.com/@nympicus)
+[My Youtube Channel](https://www.youtube.com/@nympicus)
 
 
  
